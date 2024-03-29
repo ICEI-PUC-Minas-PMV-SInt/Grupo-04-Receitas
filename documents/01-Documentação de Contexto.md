@@ -3,33 +3,25 @@
 A culinária é uma arte que une sabor e paixão, e milhões de pessoas buscam diariamente por receitas para surpreender seus convidados ou simplesmente se orgulhar de preparar pratos deliciosos. As redes sociais, como Facebook, Instagram e Youtube, são os principais meios para encontrar essas receitas, mas há uma crescente demanda por uma plataforma centralizada, personalizável e organizada para esse tipo de conteúdo.Diante da complexidade e dos desafios da culinária, como a falta de tempo e a busca por praticidade, surge a necessidade de um site que reúna todas as informações essenciais, facilitando o processo culinário para os amantes da cozinha. Esse projeto visa simplificar a busca por receitas adequadas, tornando o ato de cozinhar mais prazeroso e acessível a todos.
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
+O problema a ser resolvido é a desorganização das receitas de culinária, dispersas em várias redes sociais, dificultando a busca por pratos saudáveis e agradáveis. Isso leva muitas pessoas a optarem por alimentos não saudáveis por falta de tempo ou criatividade na cozinha, além de afetar o tempo de qualidade com a família. A falta de centralização das informações também limita a personalização do conteúdo desejado, prejudicando a experiência culinária como um todo.
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O objetivo do projeto é criar uma plataforma que centralize as melhores sugestões de receitas de culinária, oferecendo praticidade e economizando tempo na busca por informações. Com funcionalidades como perfil personalizado para cada usuário, sugestões de receitas de acordo com o horário e um feed interativo para compartilhar experiências, o projeto visa simplificar o processo de escolha e preparação de alimentos, tornando-o mais prático e agradável.
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+De acordo com dados do Google Trends, o interesse por termos relacionados à culinária, como "receitas", "cozinha" e "culinária", tem aumentado consistentemente ao longo dos anos, refletindo o crescente interesse das pessoas em explorar novas técnicas e pratos culinários.
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+Pesquisas recentes, como as realizadas pelo Instituto de Pesquisa Econômica Aplicada (IPEA), mostram uma mudança nos hábitos alimentares da população, com um aumento na preferência por refeições preparadas em casa em vez de alimentos processados ou fast food. Isso evidencia a necessidade de acesso a um amplo conjunto de receitas e recursos culinários.
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Com a pandemia de COVID-19, houve um aumento substancial no número de pessoas cozinhando em casa devido a restrições de movimentação e fechamento de restaurantes. Pesquisas mostram que essa tendência continuou mesmo após o alívio das restrições, com muitas pessoas descobrindo ou aprimorando suas habilidades culinárias durante esse período. 
+
+Uma plataforma de receitas pode capitalizar esse interesse contínuo em cozinhar em casa, fornecendo recursos e inspiração para os usuários.
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+O público-alvo são pessoas que buscam simplificar suas receitas, desejam praticidade e um design moderno em um site de culinária. Isso inclui amantes da culinária, cozinheiros ocasionais e indivíduos insatisfeitos com a dispersão de suas receitas em várias plataformas. Também engloba aqueles com restrições alimentares, como vegetarianos e intolerantes ao glúten, e pessoas com estilo de vida ativo, interessadas em receitas rápidas e práticas.
 
