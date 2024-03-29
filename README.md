@@ -6,8 +6,7 @@
 
 `1º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
-
+O projeto consiste em uma aplicação web com o objetivo de centralizar as melhores sugestões de receitas de culinária, oferecendo praticidade e economizando tempo na busca por informações. Visa a personalização dos gostos e preferências do usuário, para filtrar o conteúdo e visualizar as receitas que mais lhe agradam. Promove alguns recursos modernos como visualizar receitas de acordo com o horário atual.
 ## Integrantes
 
 * Rafael Douglas Alves da Silva
