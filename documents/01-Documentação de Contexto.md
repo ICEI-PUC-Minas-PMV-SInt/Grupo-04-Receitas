@@ -1,6 +1,6 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A culinária é uma arte que une sabor e paixão, e milhões de pessoas buscam diariamente por receitas para surpreender seus convidados ou simplesmente se orgulhar de preparar pratos deliciosos. As redes sociais, como Facebook, Instagram e Youtube, são os principais meios para encontrar essas receitas, mas há uma crescente demanda por uma plataforma centralizada, personalizável e organizada para esse tipo de conteúdo.Diante da complexidade e dos desafios da culinária, como a falta de tempo e a busca por praticidade, surge a necessidade de um site que reúna todas as informações essenciais, facilitando o processo culinário para os amantes da cozinha. Esse projeto visa simplificar a busca por receitas adequadas, tornando o ato de cozinhar mais prazeroso e acessível a todos.
 
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
