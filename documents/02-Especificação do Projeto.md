@@ -40,7 +40,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID    | Descrição                | Prioridade |
+|ID     | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 |  O sistema deve possuir um mecanismo de cadastro e login | ALTA  | 
 | RF-02 |  O sistema deve possibilitar o cadastro e login rápido com conta do Google | ALTA  |
@@ -78,7 +78,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
-|ID    | Descrição                |
+|ID     | Descrição                |
 |-------|---------------------------------|
 | RF-01 | O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2024. |
 | RF-02 | O aplicativo deve se restringir às tecnologias básicas da Web no Front-end |
