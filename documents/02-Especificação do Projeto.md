@@ -40,23 +40,23 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID     | Descrição                | Prioridade |
-|-------|---------------------------------|----|
-| RF-01 |  O sistema deve possuir um mecanismo de cadastro e login | ALTA  | 
-| RF-02 |  O sistema deve possibilitar o cadastro e login rápido com conta do Google | ALTA  |
-| RF-03 |  O sistema deve ter a funcionalidade de perfil e de personalização do mesmo, definindo preferências | ALTA  |
-| RF-04 |  O sistema deve ter uma função do usuário cadastrado adicionar uma nova receita à plataforma | ALTA  |
-| RF-05 |  O sistema deve ter uma função de adicionar foto e descrição na publicação de receitas | ALTA  |
-| RF-06 |  O sistema deve ter um sistema de aprovação de publicações de receita pelos usuários, usando um algoritmo para identificar se a publicação tem um formato de receita ou se o usuário criou uma publicação fora de contexto | ALTA  |
-| RF-07 |  O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias | ALTA  |
-| RF-08 |  O sistema deve possibilitar um sistema de interação entre usuários, com compartilhamento, comentários e feedbacks para as receitas | MÉDIA |
-| RF-09 |  O sistema deve possibilitar o compartilhamento externo das receitas através de um link | MÉDIA |
-| RF-10 |  O sistema deve conter um atalho de compartilhamento direto no Facebook ou WhatsApp | MÉDIA |
-| RF-11 |  O sistema deve ter uma função de salvar as receitas | ALTA  |
-| RF-12 |  O sistema deve ter uma função de ver as receitas salvas | ALTA  |
-| RF-13 |  O sistema deve ter um algoritimo de recomendação com base no que cada cliente pesquisa com frequência | MÉDIA |
-| RF-14 |  O sistema deve conter um mecanismo de tags, para facilitar as buscas | BAIXA |
-| RF-15 |  O sistema deve ter uma pré apresentação da receita passando pelo feed | MÉDIA |
+|ID      | Descrição                | Prioridade |
+|--------|---------------------------------|----|
+| RF-01  |  O sistema deve possuir um mecanismo de cadastro e login | ALTA  | 
+| RF-02  |  O sistema deve possibilitar o cadastro e login rápido com conta do Google | ALTA  |
+| RF-03  |  O sistema deve ter a funcionalidade de perfil e de personalização do mesmo, definindo preferências | ALTA  |
+| RF-04  |  O sistema deve ter uma função do usuário cadastrado adicionar uma nova receita à plataforma | ALTA  |
+| RF-05  |  O sistema deve ter uma função de adicionar foto e descrição na publicação de receitas | ALTA  |
+| RF-06  |  O sistema deve ter um sistema de aprovação de publicações de receita pelos usuários, usando um algoritmo para identificar se a publicação tem um formato de receita ou se o usuário criou uma publicação fora de contexto | ALTA  |
+| RF-07  |  O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias | ALTA  |
+| RF-08  |  O sistema deve possibilitar um sistema de interação entre usuários, com compartilhamento, comentários e feedbacks para as receitas | MÉDIA |
+| RF-09  |  O sistema deve possibilitar o compartilhamento externo das receitas através de um link | MÉDIA |
+| RF-10  |  O sistema deve conter um atalho de compartilhamento direto no Facebook ou WhatsApp | MÉDIA |
+| RF-11  |  O sistema deve ter uma função de salvar as receitas | ALTA  |
+| RF-12  |  O sistema deve ter uma função de ver as receitas salvas | ALTA  |
+| RF-13  |  O sistema deve ter um algoritimo de recomendação com base no que cada cliente pesquisa com frequência | MÉDIA |
+| RF-14  |  O sistema deve conter um mecanismo de tags, para facilitar as buscas | BAIXA |
+| RF-15  |  O sistema deve ter uma pré apresentação da receita passando pelo feed | MÉDIA |
 
 **Prioridade: Alta / Média / Baixa. 
 
