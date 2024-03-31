@@ -42,8 +42,8 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 |ID      | Descrição                | Prioridade |
 |--------|---------------------------------|----|
-| RF-01    |  O sistema deve possuir um mecanismo de cadastro e login | ALTA  | 
-| RF-02    |  O sistema deve possibilitar o cadastro e login rápido com conta do Google | ALTA  |
+| RF-01  |  O sistema deve possuir um mecanismo de cadastro e login | ALTA  | 
+| RF-02  |  O sistema deve possibilitar o cadastro e login rápido com conta do Google | ALTA  |
 | RF-03  |  O sistema deve ter a funcionalidade de perfil e de personalização do mesmo, definindo preferências | ALTA  |
 | RF-04  |  O sistema deve ter uma função do usuário cadastrado adicionar uma nova receita à plataforma | ALTA  |
 | RF-05  |  O sistema deve ter uma função de adicionar foto e descrição na publicação de receitas | ALTA  |
