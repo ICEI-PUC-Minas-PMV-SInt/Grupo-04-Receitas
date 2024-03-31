@@ -2,120 +2,120 @@
 
 ## Perfis de Usuários
 
+## Personas
+
 <table>
-    <tr>
-      <th>Foto</th>
-      <th>Nome</th>
-      <th>Descrição</th>
-      <th>Aplicativos</th>
-      <th>Motivações</th>
-      <th>Frustrações</th>
-      <th>Hobbies, História</th>
-    </tr
-          <tr>
-      <td><img title="João Marcos" src="https://imgur.com/oIhJLMt"/></td>
-      <td>João Marcos</td>
-      <td>
-        <ul>
-          <li>45 anos</li>
-          <li>Motorista de Uber</li>
-          <li>Mora em Santos SP junto com seus 2 filhos </li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Uber</li>
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Ifood</li>
-           </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Dar estudo aos filhos </li>
-          <li>Ter um financeiro estável</li>
-          <li>Dar boas experiências aos filhos</li>
-        </ul>
-      </td>
-      <td>
-        <li>Perdeu a esposa</li>
-        <li>Tem dificuldade em sustentar os filhos</li>
-      </td>
-      <td>
-        <li>Cozinhar para os filhos e amigos</li>
-        <li>Conhecer lugares novos</li>
-         <li>Perdeu sua esposa tem 2 anos, então passou a cuidar dos filhos sozinhos, lutando para dar a eles o melhor</li>
-            </td>
-    </tr>
-    <tr>
-      <td><img title=" Ana Júlia " src="https://imgur.com/TUnzOwI"/></td> <!--nome / foto colocar endereço url -->
-      <td> Ana Júlia </td> 
-      <td>
-        <ul>
-          <li> 28 anos </li> 
-          <li> Casada </li> 
-          <li> 1 filho de 10 anos </li> 
-          <li> Trabalha em home office </li> 
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li> Ifood </li> 
-          <li> WhatsApp </li> 
-          <li> Instagram </li> 
-          <li> Facebook </li> 
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li> Ter mais tempo para passar com o filho e marido </li> 
-          <li> Dar o melhor a seu filho </li> 
-        </ul>
-      </td>
-      <td>
-        <li> Dificuldade em organizar uma rotina em casa </li>
-       </td>
-      <td>
-        <li> Viajar, conhecer novas culturas </li> 
-        <li> Testar pratos novos na cozinha </li> 
-        <li> Começou a trabalhar de casa para poder ficar mais perto do filho, porém as demandas estão altas </li> 
-      </td>
-    </tr>
-      <tr>
-      <tr>
-      <td><img title="Maria Carla" src="https://imgur.com/KBTWsfd"/></td> <!--nome / foto colocar endereço url -->
-      <td>Maria Carla</td> <!-- nome -->
-      <td>
-        <ul>
-          <li>35 anos</li>
-          <li>Casada</li>
-          <li>Mãe de 2 meninas</li>
-          <li>Trabalha como Assistente administrativo</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>WhatsApp</li>
-          <li>Shopee</li>
-          <li>Ifood</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Passar tempo com as filhas </li>
-          <li>Vida estável</li>
-        </ul>
-      </td>
-      <td>
-        <li>Não conseguiu fazer graduação</li>
-       </td>
-      <td>
-        <li>Conhecer pessoas e lugares novos</li>
-        <li>Cozinhar para a família</li>
-        <li>Teve as filhas muito cedo e hoje trabalha para poder dar um futuro melhor para as filhas</li>
-      </td>
-    </tr>
-  </table>
+<tr>
+   <th>Foto</th>
+    <th>Nome</th>
+    <th>Descrição</th>
+    <th>Aplicativos</th>
+    <th>Motivações</th>
+    <th>Frustrações</th>
+    <th>Hobbies, História</th>
+  
+</tr
+        <tr>
+    <td><img title="João Marcos" src="https://this-person-does-not-exist.com/img/avatar-gen8bd66d54ec14bb933aac73bae177515e.jpg"/></td>
+    <td>João Marcos </td>
+    <td>
+      <ul>
+        <li>45 anos</li>
+        <li>Motorista de Uber</li>
+        <li>Mora em SP junto com seus dois filhos </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Uber</li>
+        <li>Instagram</li>
+        <li>WhatsApp</li>
+        <li>ifood</li>
+         </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Dar estudo aos filhos</li>
+        <li>Ter um financeiro estável</li>
+        <li>Dar boas experiências aos filhos</li>
+      </ul>
+    </td>
+    <td>
+      <li>Perdeu a esposa</li>
+      <li>Tem dificuldade em sustentar os filhos</li>
+    </td>
+    <td>
+      <li>Cozinhar para filhos e amigos</li>
+      <li>Conhecer lugares novos</li>
+       <li>Perdeu a esposa tem 2 anos, então passou a cuidar dos filhos sozinho, lutando para dar a eles o melhor. </li>
+          </td>
+</tr
+        <tr>
+    <td><img title="Ana Julia" src="https://this-person-does-not-exist.com/img/avatar-gen0b767dea65368b9a19b3a2c1b1618306.jpg"/></td>
+    <td>Ana Julia </td>
+    <td>
+      <ul>
+        <li>28 anos</li>
+        <li>Casada</li>
+        <li>1 filho de 10 anos
+        <li>Trabalha em home office </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Ifood</li>
+        <li>Instagram</li>
+        <li>WhatsApp</li>
+        <li>Facebook</li>
+         </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Ter mais tempo para passar com o filho e marido</li>
+        <li>Dar o melhor a seu filho</li>
+      </ul>
+    </td>
+    <td>
+      <li>Dificuldade em organizar uma rotina em casa</li>
+    </td>
+    <td>
+      <li>Viajar, conhecer novas culturas</li>
+      <li>Testar pratos novos na cozinha</li>
+       <li>Começou a trabalhar de casa para poder ficar mais perto do filho, porém as demandas estão altas. </li>
+          </td>
+          </tr
+        <tr>
+    <td><img title="Maria Carla" src="https://this-person-does-not-exist.com/img/avatar-gende601983b4e1674ea10af620aab5b3fb.jpg"/></td>
+    <td>Maria Carla </td>
+    <td>
+      <ul>
+        <li>35 anos</li>
+        <li>Casada</li>
+        <li>Mãe de 2 meninas</li>
+        <li>Trabalha como Assistente Admnistrativo</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>WhatsApp</li>
+        <li>Shopee</li>
+        <li>Ifood</li>
+         </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Passar tempo com as filhas </li>
+        <li>Ter uma vida estável</li>
+      </ul>
+    </td>
+    <td>
+      <li>Não conseguiu fazer graduação</li>
+    </td>
+    <td>
+      <li>Conhecer pessoas e lugares novos</li>
+      <li>Cozinhar para a família</li>
+       <li>Teve as filhas muito cedo e hoje trabalha para poder dar um futuro melhor para as filhas. </li>
+          </td>
 
 
 ## Histórias de Usuários
