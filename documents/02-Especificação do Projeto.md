@@ -1,6 +1,10 @@
 # Especificação do Projeto
 
+## Perfis de Usuários
+
+
 ## Personas
+
 
 <table>
 <tr>
@@ -114,6 +118,8 @@
       <li>Cozinhar para a família</li>
        <li>Teve as filhas muito cedo e hoje trabalha para poder dar um futuro melhor para as filhas. </li>
           </td>
+          </tr>
+  </table>
 
 
 ## Histórias de Usuários
