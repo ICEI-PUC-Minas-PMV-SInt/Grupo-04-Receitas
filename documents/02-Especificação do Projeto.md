@@ -1,7 +1,5 @@
 # Especificação do Projeto
 
-## Perfis de Usuários
-
 ## Personas
 
 <table>
