@@ -32,6 +32,6 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 >> - [Figma](https://www.figma.com/)
 
 #### Tela inicial
-![tela inicial](https://ibb.co/K21K4d4/.png)
+![tela inicial](https://ibb.co/K21K4d4{{ page.inputPath }})
 
 
