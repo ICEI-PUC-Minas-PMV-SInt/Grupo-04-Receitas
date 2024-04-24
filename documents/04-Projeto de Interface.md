@@ -31,5 +31,6 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 >> - [MarvelApp](https://marvelapp.com/)
 >> - [Figma](https://www.figma.com/)
 
-
+#### Tela inicial
+![tela inicial] (https://ibb.co/K21K4d4)
 
