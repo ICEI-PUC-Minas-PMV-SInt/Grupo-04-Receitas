@@ -35,6 +35,10 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 #### Tela inicial
 ![Captura-de-tela-2024-04-24-103908](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/49dc0a00-03d9-46f3-a6e9-828252e73210)
 
+#### Tela de Login
+![Imagen-Rafael](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/dce28fde-607f-42de-8726-f306a1e641f6)
+
+
 #### Tela Receitas Salvas
 
 ![Captura-de-tela-2024-04-24-193043](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/7e9440d1-ea22-4be7-ab87-da74ec1ae32d)
