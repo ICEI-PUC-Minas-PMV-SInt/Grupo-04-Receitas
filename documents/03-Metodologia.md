@@ -51,7 +51,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | [Código Fonte] (https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/blob/main/src/README.md).                           |
+| Repositório de código fonte         | GitHub                             | [Código Fonte](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/blob/main/src/README.md).                           |
 | Documentos do projeto               | GitHub                             | http://....                            |
 | Projeto de Interface                | Figma                              | http://....                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
