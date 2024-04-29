@@ -15,12 +15,14 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 ### Processo
 
-Escolhemos o Trello como ferramenta para gerenciamento do projeto, utilizando o quadro Kanban para acompanhamento das tarefas:
+Escolhemos o Trello para representar nosso método Kanban, pois oferece uma interface intuitiva para organizar e acompanhar tarefas. Ele nos permite visualizar o fluxo de trabalho, gerenciar prioridades e colaborar em tempo real, mantendo a equipe alinhada e atualizada sobre o progresso do projeto.
 
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+- Backlog: Lista de todas as tarefas a serem feitas, incluindo aquelas identificadas durante o projeto.
+- To Do: Tarefas planejadas para o sprint atual
+- Doing: Tarefas em andamento.
+- Done: Tarefas finalizadas e prontas para entrega ao usuário após passarem por testes e controle de qualidade.
+  
+Assim, conseguimos acompanhar o desenvolvimento do projeto de uma forma organizada e eficaz.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/164505346/9cfdbaa8-ecee-4803-add0-1675ff936648)
 
