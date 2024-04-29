@@ -45,11 +45,15 @@ Assim, conseguimos acompanhar o desenvolvimento do projeto de uma forma organiza
   
 ### Ferramentas
 
-GitHub: Utilizamos o GitHub como nossa plataforma principal para hospedar documentos do projeto e o código fonte. Esta plataforma oferece controle de versão, facilitando a colaboração entre os membros da equipe e permitindo o acompanhamento das alterações realizadas em cada parte do código.
+Repositório de Código Fonte (GitHub): Utilizamos o GitHub como plataforma para hospedar o código fonte do nosso projeto. Ele serve como um repositório centralizado onde todos os arquivos de código são armazenados, versionados e gerenciados. Isso facilita a colaboração entre os membros da equipe e permite um controle preciso das alterações feitas no código ao longo do tempo.
 
-Trello: Optamos pelo Trello como nossa ferramenta de gestão do projeto. Com o Trello, conseguimos organizar nossas tarefas em diferentes quadros, facilitando a visualização do progresso do projeto e a distribuição de atividades entre os membros da equipe. Além disso, o Trello oferece recursos de acompanhamento de prazos e prioridades, mantendo todos os membros da equipe alinhados em relação aos objetivos do projeto.
+Documentação do Projeto (GitHub): Para a documentação do projeto, também utilizamos o GitHub. Isso nos permite armazenar e compartilhar documentos importantes, como especificações de requisitos, diagramas de arquitetura, e quaisquer outros documentos relacionados ao projeto. A integração com o repositório de código fonte torna mais fácil manter a documentação atualizada e acessível para toda a equipe.
 
-Figma: Para prototipagem da interface e design do nosso projeto, utilizamos o Figma. Esta ferramenta nos permite criar e compartilhar designs de forma colaborativa, facilitando a comunicação entre os designers e desenvolvedores da equipe.
+Projetos de Interface (Figma): Para o design e prototipagem da interface do usuário, contamos com o Figma. Esta ferramenta nos permite criar wireframes, protótipos interativos e designs de alta fidelidade para as diferentes telas e elementos do nosso site. Além disso, o Figma oferece recursos de colaboração em tempo real, facilitando o trabalho em equipe e a revisão do design.
+
+Gerenciamento do Projeto (Trello): Para a organização e gerenciamento geral do projeto, confiamos no Trello. Esta plataforma baseada em quadros nos permite criar listas de tarefas, atribuir responsabilidades, acompanhar o progresso e priorizar o trabalho. Com o Trello, podemos manter todas as partes do projeto organizadas e alinhadas, desde o planejamento até a entrega.
+
+Comunicação do Time (Microsoft Teams): Utilizamos o Teams como ferramenta para nossas reuniões diárias.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
@@ -57,7 +61,7 @@ Figma: Para prototipagem da interface e design do nosso projeto, utilizamos o Fi
 | Documentos do projeto               | GitHub                             | [MyRep](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/tree/main/documents)                            |
 | Projeto de Interface                | Figma                              | [Protótipo](https://www.figma.com/file/fbwMuLej2Voba16iX0yoe6/Untitled?type=design&node-id=0-1&mode=design&t=7U62SZ4xrNxd2ZHK-0)                            |
 | Gerenciamento do Projeto            | Trello                    | [Trello](https://trello.com/b/6YjjZcwL/kanban-quadro-modelo)                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Comunicação do time                          | Microsoft Teams                       | [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in)|
 
 
 ### Estratégia de Organização de Codificação 
