@@ -7,14 +7,6 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ![Imagem do WhatsApp de 2024-04-27 à(s) 14 06 47_4015b0ec](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/164505346/78483b2a-2429-47f8-84b3-33900ac81f5d)
 
-
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
 ## Protótipo
 
 Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. 
