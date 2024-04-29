@@ -54,7 +54,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Repositório de código fonte         | GitHub                             | [Código Fonte](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/blob/main/src/README.md)                           |
 | Documentos do projeto               | GitHub                             | [MyRep](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/tree/main/documents)                            |
 | Projeto de Interface                | Figma                              | [Protótipo](https://www.figma.com/file/fbwMuLej2Voba16iX0yoe6/Untitled?type=design&node-id=0-1&mode=design&t=7U62SZ4xrNxd2ZHK-0)                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Gerenciamento do Projeto            | Trello                    | [Trello](https://trello.com/b/6YjjZcwL/kanban-quadro-modelo)                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
