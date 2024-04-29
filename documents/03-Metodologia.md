@@ -6,12 +6,12 @@ Optamos pelo Scrum para gerenciar o desenvolvimento do site de culinária, pois 
 
 ### Divisão de Papéis
 
-Utilizando o Scrum como base para definição do processo de desenvolvimento, a Divisão dos Papéis entre os membros do grupo ficou da seguinte forma: 
+A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 
-- Scrum Master: Rodrigo
-- Product Owner: Tatiana
-- Equipe de Desenvolvimento: Rafael, Tatiana, Rodrigo
-- Equipe de Design: Rafael, Tatiana, Rodrigo
+- Scrum Master: Rodrigo da Costa
+- Product Owner: Tatiana Haveroth
+- Equipe de Desenvolvimento: Rafael Douglas, Rodrigo da Costa e Tatiana Haveroth
+- Equipe de Design: Rafael Douglas, Rodrigo da Costa e Tatiana Haveroth
 
 ### Processo
 
