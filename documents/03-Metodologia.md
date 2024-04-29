@@ -51,8 +51,6 @@ Trello: Optamos pelo Trello como nossa ferramenta de gestão do projeto. Com o T
 
 Figma: Para prototipagem da interface e design do nosso projeto, utilizamos o Figma. Esta ferramenta nos permite criar e compartilhar designs de forma colaborativa, facilitando a comunicação entre os designers e desenvolvedores da equipe.
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
-
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | [Código Fonte](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/blob/main/src/README.md)                           |
