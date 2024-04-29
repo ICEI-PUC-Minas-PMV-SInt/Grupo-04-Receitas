@@ -45,7 +45,11 @@ Escolhemos o Trello como ferramenta para gerenciamento do projeto, utilizando o 
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+GitHub: Utilizamos o GitHub como nossa plataforma principal para hospedar documentos do projeto e o código fonte. Esta plataforma oferece controle de versão, facilitando a colaboração entre os membros da equipe e permitindo o acompanhamento das alterações realizadas em cada parte do código.
+
+Trello: Optamos pelo Trello como nossa ferramenta de gestão do projeto. Com o Trello, conseguimos organizar nossas tarefas em diferentes quadros, facilitando a visualização do progresso do projeto e a distribuição de atividades entre os membros da equipe. Além disso, o Trello oferece recursos de acompanhamento de prazos e prioridades, mantendo todos os membros da equipe alinhados em relação aos objetivos do projeto.
+
+Figma: Para prototipagem da interface e design do nosso projeto, utilizamos o Figma. Esta ferramenta nos permite criar e compartilhar designs de forma colaborativa, facilitando a comunicação entre os designers e desenvolvedores da equipe.
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
