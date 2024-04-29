@@ -53,7 +53,9 @@ Projetos de Interface (Figma): Para o design e prototipagem da interface do usu�
 
 Gerenciamento do Projeto (Trello): Para a organização e gerenciamento geral do projeto, confiamos no Trello. Esta plataforma baseada em quadros nos permite criar listas de tarefas, atribuir responsabilidades, acompanhar o progresso e priorizar o trabalho. Com o Trello, podemos manter todas as partes do projeto organizadas e alinhadas, desde o planejamento até a entrega.
 
-Comunicação do Time (Microsoft Teams): Utilizamos o Teams como ferramenta para nossas reuniões diárias.
+Reuniões Diárias (Microsoft Teams): Para as reuniões diárias utilizamos o Microsoft Teams.
+
+Comunicação do time (WhatsApp): Criamos um grupo no WhatsApp para nos comunicarmos.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
@@ -61,7 +63,8 @@ Comunicação do Time (Microsoft Teams): Utilizamos o Teams como ferramenta para
 | Documentos do projeto               | GitHub                             | [MyRep](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/tree/main/documents)                            |
 | Projeto de Interface                | Figma                              | [Protótipo](https://www.figma.com/file/fbwMuLej2Voba16iX0yoe6/Untitled?type=design&node-id=0-1&mode=design&t=7U62SZ4xrNxd2ZHK-0)                            |
 | Gerenciamento do Projeto            | Trello                    | [Trello](https://trello.com/b/6YjjZcwL/kanban-quadro-modelo)                            |
-| Comunicação do time                          | Microsoft Teams                       | [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in)|
+| Reuniões Diárias                          | Microsoft Teams                       | [Teams](https://www.microsoft.com/pt-br/microsoft-teams/log-in)|
+| Comunicação do time                 | WhatsApp                          |  [WhatsApp](https://web.whatsapp.com/)
 
 
 ### Estratégia de Organização de Codificação 
