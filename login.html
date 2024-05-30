@@ -12,15 +12,33 @@
         <br>
         <h4>Não tem uma conta? Cadastre-se</h4>
         <br>
-        <ul class="usuario">Nome de usuário / e-mail</ul>    
-        <input type="text">
+        <label for="usuario">Nome de usuário / e-mail</label>
+        <input type="text" id="usuario">
         <br><br>
-        <ul class="senha">Senha</ul>
-        <input type="password">
+        <label for="senha">Senha</label>
+        <input type="password" id="senha">
         <br><br>
-        <a href="inicio_logado.html"><button>Entrar</button></a>
+        <button id="loginButton">Entrar</button>
         <br><br>
         <h4>Esqueceu a senha? Clique aqui</h4>
     </div>
+    <script>
+        document.getElementById('loginButton').addEventListener('click', function() {
+            
+            var usuario = document.getElementById('usuario').value;
+            var senha = document.getElementById('senha').value;
+
+            if (usuario && senha) {
+               
+                localStorage.setItem('usuario', usuario);
+                localStorage.setItem('senha', senha);
+
+                alert('Login realizado com sucesso!');
+                window.location.href = "inicio_logado.html";
+            } else {
+                alert('Por favor, preencha todos os campos.');
+            }
+        });
+    </script>
 </body>
 </html>
