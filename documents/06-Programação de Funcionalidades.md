@@ -9,7 +9,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
+[RF-15: O sistema deve ter uma pré apresentação da receita passando pelo feed]
 
 
 #### Artefatos da funcionalidade
@@ -24,7 +25,8 @@ telainicial.css
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
+[RF-15: O sistema deve ter uma pré apresentação da receita passando pelo feed]
 
 
 #### Artefatos da funcionalidade
@@ -40,7 +42,7 @@ pesquisa.css
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-01: O sistema deve possuir um mecanismo de cadastro e login]
 
 
 #### Artefatos da funcionalidade
@@ -56,7 +58,8 @@ login.css
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
+[RF-15: O sistema deve ter uma pré apresentação da receita passando pelo feed]
 
 
 #### Artefatos da funcionalidade
@@ -72,7 +75,8 @@ inicio_logado.css
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
+[RF-15: O sistema deve ter uma pré apresentação da receita passando pelo feed]
 
 
 #### Artefatos da funcionalidade
@@ -88,7 +92,10 @@ pesquisa_logado.css
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-03: O sistema deve ter a funcionalidade de perfil e de personalização do mesmo, definindo preferências]<br>
+[RF-04: O sistema deve ter uma função do usuário cadastrado adicionar uma nova receita à plataforma]<br>
+[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
+[RF-12: O sistema deve ter uma função de ver as receitas salvas]
 
 
 #### Artefatos da funcionalidade
@@ -104,7 +111,9 @@ telaperfil.css
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
+[RF-12: O sistema deve ter uma função de ver as receitas salvas]<br>
+[RF-15: O sistema deve ter uma pré apresentação da receita passando pelo feed]
 
 
 #### Artefatos da funcionalidade
@@ -120,7 +129,11 @@ receitas-salvas.css
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+[RF-07: O sistema deve permitir que usuários tenham um filtro de pesquisa, para pesquisar cada receita por nomes ou categorias]<br>
+[RF-08: O sistema deve possibilitar um sistema de interação entre usuários, com compartilhamento, comentários e feedbacks para as receitas]<br>
+[RF-11: O sistema deve ter uma função de salvar as receitas]<br>
+[RF-13: O sistema deve ter um algoritimo de recomendação com base no que cada cliente pesquisa com frequência]<br>
+[RF-15: O sistema deve ter uma pré apresentação da receita passando pelo feed]
 
 
 #### Artefatos da funcionalidade
