@@ -14,10 +14,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Artefatos da funcionalidade
 
-telainicial.html
+telainicial.html<br>
 telainicial.css
-
-================
 
 ### Tela de Pesquisa
 
@@ -31,10 +29,8 @@ telainicial.css
 
 #### Artefatos da funcionalidade
 
-pesquisa.html
+pesquisa.html<br>
 pesquisa.css
-
-===================
 
 ### Tela de Login
 
@@ -49,10 +45,9 @@ pesquisa.css
 
 #### Artefatos da funcionalidade
 
-login.html
+login.html<br>
 login.css
 
-==================
 
 ### Tela Inicial Logado
 
@@ -66,10 +61,9 @@ login.css
 
 #### Artefatos da funcionalidade
 
-inicio_logado.html
+inicio_logado.html<br>
 inicio_logado.css
 
-==================
 
 ### Tela de Pesquisa Logado
 
@@ -83,10 +77,9 @@ inicio_logado.css
 
 #### Artefatos da funcionalidade
 
-pesquisa_logado.html
+pesquisa_logado.html<br>
 pesquisa_logado.css
 
-==================
 
 ### Tela de Perfil
 
@@ -100,10 +93,9 @@ pesquisa_logado.css
 
 #### Artefatos da funcionalidade
 
-telaperfil.html
+telaperfil.html<br>
 telaperfil.css
 
-===================
 
 ### Tela de Receitas Salvas
 
@@ -117,10 +109,9 @@ telaperfil.css
 
 #### Artefatos da funcionalidade
 
-receitas-salvas.html
+receitas-salvas.html<br>
 receitas-salvas.css
 
-=================
 
 ### Tela da Receita
 
@@ -134,6 +125,6 @@ receitas-salvas.css
 
 #### Artefatos da funcionalidade
 
-tela_receita_logado.html
+tela_receita_logado.html<br>
 tela_receita_logado.css
 
