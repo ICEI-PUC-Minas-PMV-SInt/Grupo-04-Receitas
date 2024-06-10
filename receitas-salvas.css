@@ -5,9 +5,9 @@
     font-family: "Open Sans", sans-serif;
 }
 a, a:visited, a:hover, a:active {
-    color: inherit; /* Mantém a cor do texto ao invés de usar a cor padrão do link */
+    color: inherit; /* MantÃ©m a cor do texto ao invÃ©s de usar a cor padrÃ£o do link */
     text-decoration: none; /* Remove o sublinhado */
-    font-size: inherit; /* Mantém o tamanho da fonte */
+    font-size: inherit; /* MantÃ©m o tamanho da fonte */
 }
 
 ul{
