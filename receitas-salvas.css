@@ -45,12 +45,6 @@ img{
         ;
         align-items: center;
     }
-        .sair{
-        font-size: 15px;
-        padding: 10px;
-        margin: auto;
-        width: auto;
-        margin-left: 300px;
     .logo{
         grid-area: logo;
         padding: 0 5%;
@@ -227,3 +221,13 @@ img{
         cursor: pointer;
     }
 }
+    .sair{
+        font-size: 15px;
+        padding: 10px;
+        margin: auto;
+        width: auto;
+        margin-left: 300px;
+    }
+    
+    /* Dispositivos com largura máxima de 768px (tablets) */
+    @media screen and (max-width: 768px){}
