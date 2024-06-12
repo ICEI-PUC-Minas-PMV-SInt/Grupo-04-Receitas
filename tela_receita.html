@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="tela_receita.css">
+    <title>Pudim - Sabor do Momento</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <a href="telainicial.html"><img src="./img/logo.png" alt=""></a>
+            </div>
+
+            <div class="search">
+                <input type="search" name="search" id="search" placeholder="Pesquise o nome da receita">
+                <button><svg fill="#fff" height="27px" width="27px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 488.4 488.4" xml:space="preserve"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M0,203.25c0,112.1,91.2,203.2,203.2,203.2c51.6,0,98.8-19.4,134.7-51.2l129.5,129.5c2.4,2.4,5.5,3.6,8.7,3.6 s6.3-1.2,8.7-3.6c4.8-4.8,4.8-12.5,0-17.3l-129.6-129.5c31.8-35.9,51.2-83,51.2-134.7c0-112.1-91.2-203.2-203.2-203.2 S0,91.15,0,203.25z M381.9,203.25c0,98.5-80.2,178.7-178.7,178.7s-178.7-80.2-178.7-178.7s80.2-178.7,178.7-178.7 S381.9,104.65,381.9,203.25z"></path> </g> </g> </g></svg></button>
+            </div>
+
+            <div class="button"></div>
+
+            <div class="nav--right">
+                <ul>
+                    <a href="login.html"><li><svg width="60px" height="60px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M16.7071 14.2929C17.0976 14.6834 17.0976 15.3166 16.7071 15.7071C16.3166 16.0976 15.6834 16.0976 15.2929 15.7071L12.3799 12.7941C12.3649 12.7791 12.3503 12.7637 12.3363 12.748C12.13 12.5648 12 12.2976 12 12C12 11.7024 12.13 11.4352 12.3363 11.252C12.3503 11.2363 12.3649 11.2209 12.3799 11.2059L15.2929 8.29289C15.6834 7.90237 16.3166 7.90237 16.7071 8.29289C17.0976 8.68342 17.0976 9.31658 16.7071 9.70711L15.4142 11H21C21.5523 11 22 11.4477 22 12C22 12.5523 21.5523 13 21 13H15.4142L16.7071 14.2929Z" fill="#000000"></path> <path d="M5 2C3.34315 2 2 3.34315 2 5V19C2 20.6569 3.34315 22 5 22H14.5C15.8807 22 17 20.8807 17 19.5V16.7326C16.2351 17.1747 15.2401 17.0686 14.5858 16.4142L11.6728 13.5012C11.658 13.4865 11.6435 13.4715 11.6292 13.4563C11.2431 13.0928 11 12.5742 11 12C11 11.4258 11.2431 10.9072 11.6292 10.5437C11.6435 10.5285 11.658 10.5135 11.6728 10.4988L14.5858 7.58579C15.2402 6.93142 16.2351 6.82529 17 7.26738V4.5C17 3.11929 15.8807 2 14.5 2H5Z" fill="#000000"></path> <path d="M5 2C3.34315 2 2 3.34315 2 5V19C2 20.6569 3.34315 22 5 22H14.5C15.8807 22 17 20.8807 17 19.5V16.7326C16.2351 17.1747 15.2401 17.0686 14.5858 16.4142L11.6728 13.5012C11.658 13.4865 11.6435 13.4715 11.6292 13.4563C11.2431 13.0928 11 12.5742 11 12C11 11.4258 11.2431 10.9072 11.6292 10.5437C11.6435 10.5285 11.658 10.5135 11.6728 10.4988L14.5858 7.58579C15.2402 6.93142 16.2351 6.82529 17 7.26738V4.5C17 3.11929 15.8807 2 14.5 2H5Z" fill="#000000"></path> </g></svg></li></a>
+                    <a href="login.html"><li id="Entrar">Entrar</li></a>
+                </ul>
+            </div>
+
+            <nav>
+                <ul>
+                    <a href="cafe.html"><li>Café da Manhã</li></a>
+                    <a href="pesquisa.html"><li>Almoço</li></a>
+                    <a href="jantar.html"><li>Jantar</li></a>
+                    <a href="sobremesa.html"><li>Sobremesa</li></a>
+                    <a href="lanche.html"><li>Lanche</li></a>
+            </nav>
+
+        </header>
+
+
+
+        <main>
+
+            <div class="breadcrumbs">
+                <ul>
+                    <li>
+                        <a href="telainicial.html">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                                <path d="M11.47 3.841a.75.75 0 0 1 1.06 0l8.69 8.69a.75.75 0 1 0 1.06-1.061l-8.689-8.69a2.25 2.25 0 0 0-3.182 0l-8.69 8.69a.75.75 0 1 0 1.061 1.06l8.69-8.689Z" />
+                                <path d="m12 5.432 8.159 8.159c.03.03.06.058.091.086v6.198c0 1.035-.84 1.875-1.875 1.875H15a.75.75 0 0 1-.75-.75v-4.5a.75.75 0 0 0-.75-.75h-3a.75.75 0 0 0-.75.75V21a.75.75 0 0 1-.75.75H5.625a1.875 1.875 0 0 1-1.875-1.875v-6.198a2.29 2.29 0 0 0 .091-.086L12 5.432Z" />
+                              </svg>                      
+                        </a>
+                    </li>
+        
+                    <li class="arrow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                            <path fill-rule="evenodd" d="M16.28 11.47a.75.75 0 0 1 0 1.06l-7.5 7.5a.75.75 0 0 1-1.06-1.06L14.69 12 7.72 5.03a.75.75 0 0 1 1.06-1.06l7.5 7.5Z" clip-rule="evenodd" />
+                          </svg>
+                    </li>
+        
+                    <li>
+                        <a href="sobremesalogado.html">Sobremesa</a>
+                    </li>
+
+                    <li class="arrow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                            <path fill-rule="evenodd" d="M16.28 11.47a.75.75 0 0 1 0 1.06l-7.5 7.5a.75.75 0 0 1-1.06-1.06L14.69 12 7.72 5.03a.75.75 0 0 1 1.06-1.06l7.5 7.5Z" clip-rule="evenodd" />
+                          </svg>
+                    </li>
+
+                    <li>
+                        <a href="#">Pudim sem furinhos</a>
+                    </li>
+
+                </ul>
+            </div>    
+
+            <div class="titulo">
+                <div class="titulo_receita">
+                    <h1>Pudim sem furinhos na panela de arroz</h1>
+                </div>
+
+                <div class="bolinha_imagem icones">
+                    <img src="./img/bolinha_homem2.png" alt="">
+                </div>
+
+                <div class="nome_pessoa">
+                    <ul>Por João Ximenes</ul>
+                </div>
+            </div>
+
+             <h1></h1>
+
+            <div class="slide">
+                <div class="slide__foto">
+                    <img class="imagem_receita" src="./img/pudim.jpg" alt="">
+                </div>
+
+                <div class="slide__btnshare">
+                    <img class="icones" src="./img/botaoshare.png" alt="">
+                </div>
+
+                <div class="slide__btninferior">
+                    <div class="icones"><img src="./img/like.png" alt=""></div>
+                    <div class="icones"><img src="./img/coments.png" alt=""></div>
+                    <div class="icones"><img src="./img/save.png" alt=""></div>
+                </div>
+            </div>
+
+
+
+
+            <div class="instrucoes_receita">
+
+                <div class="ingredientes_titulo">
+                    <ul>Ingredientes (12 porções)</ul>
+                </div>
+
+                <table class="tabela_ingredientes">
+                    <tr>
+                        <td><img src="./img/leite-condensado.jpg" alt=""></td>
+                        <td>2 latas de leite condensado</td>
+                        <td><img src="./img/leite.jpg" alt=""></td>
+                        <td>2 latas (mesma medida da de leite condensado) de leite</td>
+                    </tr>
+                    <tr>
+                        <td><img src="./img/creme-de-leite.jpg" alt=""></td>
+                        <td>1 caixinha de creme de leite</td>
+                        <td><img src="./img/ovo.jpg" alt=""></td>
+                        <td>3 ovos</td>
+                    </tr>
+                    <tr>
+                        <td><img src="./img/amido-de-milho.jpg" alt=""></td>
+                        <td>1 colher de sopa de amido de milho</td>
+                        <td><img src="./img/acucar.jpg" alt=""></td>
+                        <td>1 xícara de chá de açúcar</td>
+                    </tr>
+                </table>
+
+                <div class="mododepreparo_titulo">
+                    <ul>Modo de preparo</ul>
+                </div>
+
+                <table class="modo_de_preparo">
+                    <tr>
+                        <td id="numero">1</td>
+                        <td>Bata todos os ingredientes acima no liquidificador (exceto o açúcar que será usado para fazer a calda) - reserve (pode ser que precise fazer isso em duas etapas pois a quantidade de ingredientes é bem volumosa).</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">2</td>
+                        <td>Em uma forma para pudim, coloque o açúcar (espalhando-o pela forma), queimando no fogo baixo (pode utilizar uma colher para mexer).</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">3</td>
+                        <td>Você perceberá que o açúcar irá derreter, escurecer e empelotar, mas não se preocupe pois é normal, logo depois ele ir´s derreter totalmente, ficando bem líquido e de cor caramelo clara, pronto esse é o ponto da calda.</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">4</td>
+                        <td>Desligue o fogo e comece a espalhar o caramelo por toda a forma, como se a estivesse untando.</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">5</td>
+                        <td>Não precisa colocar água, dessa maneira a calda fica perfeita.</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">6</td>
+                        <td>Despeje na assadeira já untada com a calda de caramelo, todo o conteúdo batido no liquidificador, coloque no forno em banho-maria, com temperatura aproximada de 200º.</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">7</td>
+                        <td>Ele demora um pouquinho para ficar pronto, o tempo exato dependerá do seu forno (tentei fazer uma vez no forno elétrico e não ficou bom, faça no conevencional mesmo).</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">8</td>
+                        <td>Tenha paciência, geralmente no forno aqui de casa demora em média 2 horas para ficar pronto, mas vale muito a pena.</td>
+                    </tr>
+                    <tr>
+                        <td id="numero">9</td>
+                        <td>Bom para saber se está pronto, basta espetá-lo até quase o fundo com uma faca, se a faca sair limpinha já está na hora de retirá-lo do forno.</td>
+                    </tr>
+
+                </table>
+            </div>
+
+        </main>
+
+        <aside>
+            <div class="recomendadas">
+                <h1>Recomendadas</h1>
+            </div>
+
+            <div class="receita1">
+                <div class="container_aside">
+                    <div class="imagem_aside">
+                        <a href="lasanha.html"><img class="imagem_receita" src="./img/w - lasanha.jpg" alt=""></a>
+                    </div>
+                </div>
+
+                <div class="icones_inferior">
+                    <div class="bolinha_aside icones">
+                        <ul><img src="./img/z - eduardocosta.png" alt=""></ul>
+                    </div>
+                        
+                    <div class="texto_bolinha_aside">
+                        <ul>Por Eduardo Costa</ul>   
+                    </div>
+
+                    <div class="icone_coments icones">
+                        <ul><img src="./img/comment.jpg" alt=""></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="receita2">
+                <div class="container_aside">
+                    <div class="imagem_aside">
+                        <a href="misto.html"><img class="imagem_receita" src="./img/x - mistoquente.png" alt=""></a>
+                    </div>
+                </div>
+
+                <div class="icones_inferior">
+                    <div class="bolinha_aside icones">
+                        <ul><img src="./img/z - eduardocosta.png" alt=""></ul>
+                    </div>
+                        
+                    <div class="texto_bolinha_aside">
+                        <ul>Por Eduardo Costa</ul>   
+                    </div>
+
+                    <div class="icone_coments icones">
+                        <ul><img src="./img/comment.jpg" alt=""></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="receita3">
+                <div class="container_aside">
+                    <div class="imagem_aside">
+                        <a href="paodqjo.html"><img class="imagem_receita" src="./img/01-lanche.jpg" alt=""></a>
+                    </div>
+                </div>
+
+                <div class="icones_inferior">
+                    <div class="bolinha_aside icones">
+                        <ul><img src="./img/img-bolinha3.png" alt=""></ul>
+                    </div>
+                        
+                    <div class="texto_bolinha_aside">
+                        <ul>Por Ágatha Campos</ul>   
+                    </div>
+
+                    <div class="icone_coments icones">
+                        <ul><img src="./img/comment.jpg" alt=""></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="receita4">
+                <div class="container_aside">
+                    <div class="imagem_aside">
+                        <a href="macarrao.html"><img class="imagem_receita" src="./img/01.jpg" alt=""></a>
+                    </div>
+                </div>
+
+                <div class="icones_inferior">
+                    <div class="bolinha_aside icones">
+                        <ul><img src="./img/bolinha_mulher1.png" alt=""></ul>
+                    </div>
+                        
+                    <div class="texto_bolinha_aside">
+                        <ul>Por Lucielle Martins</ul>   
+                    </div>
+
+                    <div class="icone_coments icones">
+                        <ul><img src="./img/comment.jpg" alt=""></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="receita5">
+                <div class="container_aside">
+                    <div class="imagem_aside">
+                        <img class="imagem_receita" src="./img/panqueca.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="icones_inferior">
+                    <div class="bolinha_aside icones">
+                        <ul><img src="./img/img-bolinha5.png" alt=""></ul>
+                    </div>
+                        
+                    <div class="texto_bolinha_aside">
+                        <ul>Por Rafael Marcos</ul>   
+                    </div>
+
+                    <div class="icone_coments icones">
+                        <ul><img src="./img/comment.jpg" alt=""></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="receita6">
+                <div class="container_aside">
+                    <div class="imagem_aside">
+                        <img class="imagem_receita" src="./img/baiao-de-dois.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="icones_inferior">
+                    <div class="bolinha_aside icones">
+                        <ul><img src="./img/img-bolinha6.png" alt=""></ul>
+                    </div>
+                        
+                    <div class="texto_bolinha_aside">
+                        <ul>Por Cris de Castro</ul>   
+                    </div>
+
+                    <div class="icone_coments icones">
+                        <ul><img src="./img/comment.jpg" alt=""></ul>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>
