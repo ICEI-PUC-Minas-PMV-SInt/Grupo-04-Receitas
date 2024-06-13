@@ -55,6 +55,14 @@
 | Registro da tela |![Captura-de-tela-2024-06-13-094316](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/50d6acfb-790a-4728-b56e-3ea7e408a8f8)
 
 
+|Caso de Teste    | RF-07	Voltar ao inicio|
+|:---|:---|
+| Requisitos Associados | RF-07	O sistema deve permitir que usuários possam voltar ao inicio de qualquer página que estejam |
+| Objetivo do Teste | verificar se existe local para voltar a tela de inicio|
+| Passos | Com a tela não logada ou já logada; 1 - clicar em cima da logo ou da casinha .|
+| Critérios de êxito | O usuário será redirecionada para a tela de inicio. |
+| Responsável pela elaborar do caso de Teste | Tatiana Haveroth Barbosa |
+| Registro da tela |![Captura-de-tela-2024-06-13-094804](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/7112c8e4-2021-40fe-8dfb-48f1d90b0aa2)
 
 
 
