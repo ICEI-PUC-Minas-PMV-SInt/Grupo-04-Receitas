@@ -57,3 +57,12 @@
 | Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa |
 
 ![Captura-de-tela-2024-06-13-103752](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/0dbc24fc-175f-452a-81f3-d552a0092887)
+
+
+
+|Caso de Teste    | CT-07 - Sair|
+|:---|:---|
+| Resultados obtidos | dentro do meu perfil eu cliquei em Sair e fui direcionada para a tela de login. Dentro do esperado   |
+| Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa |
+
+![Captura-de-tela-2024-06-13-104122](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/dfb17d04-eb27-4936-b3e9-74f3140674aa)
