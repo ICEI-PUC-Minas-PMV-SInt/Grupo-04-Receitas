@@ -28,3 +28,11 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa | 
 
 ![Captura-de-tela-2024-06-13-101247](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/88b208fa-7f1e-4c77-9860-64056d71214b)
+
+
+|Caso de Teste    | CT-03 - Abrir tela da receita|
+|:---|:---|
+| Resultados obtidos | cliquei no filtro de almoço e escolhi a receita de macarrão, onde fui direcionada para a tela de receita completa   |
+| Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa |
+
+![Captura-de-tela-2024-06-13-101830](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/ac6f3722-0888-4849-9c35-c8153307eab0)
