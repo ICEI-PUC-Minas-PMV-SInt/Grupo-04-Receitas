@@ -20,3 +20,11 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 
 ![Captura-de-tela-2024-06-13-100629](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/0001f742-cf49-4933-95da-a30df5ced151)
+
+
+|Caso de Teste    | CT-02 -  Personalização do perfil|
+|:---|:---|
+| Resultados obtidos | Após logar cliquei em minha foto e fui direcionada para o meu perfil onde consigo clicar e escolher minhas preferencias de receitas. Dentro do esperado  |
+| Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa | 
+
+![Captura-de-tela-2024-06-13-101247](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/88b208fa-7f1e-4c77-9860-64056d71214b)
