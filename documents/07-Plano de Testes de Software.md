@@ -65,5 +65,14 @@
 | Registro da tela |![Captura-de-tela-2024-06-13-094804](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/7112c8e4-2021-40fe-8dfb-48f1d90b0aa2)
 
 
+|Caso de Teste    | RF-07	Sair|
+|:---|:---|
+| Requisitos Associados | RF-07	O sistema deve permitir que usuários possam sair da tela logada |
+| Objetivo do Teste | verificar se existe local para sair |
+| Passos | Com a tela logada; 1 - clicar em cima de sair .|
+| Critérios de êxito | O usuário será redirecionada para a tela de login. |
+| Responsável pela elaborar do caso de Teste | Tatiana Haveroth Barbosa |
+| Registro da tela |![Captura-de-tela-2024-06-13-095558](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/0a769b10-5857-4e9a-bde0-85e83ab374f3)
+
 
 
