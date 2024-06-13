@@ -33,7 +33,7 @@
 
 
 
-|Caso de Teste    | CT-04 -Filtro de pesquisa|
+|Caso de Teste    | CT-04 - Filtro de pesquisa|
 |:---|:---|
 | Resultados obtidos | cliquei nos filtros de café da manhã, almoço, jantar, sobremesa e lanche. onde fui direcionada para as telas correspondentes por categoria. Dentro do esperado   |
 | Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa |
@@ -42,10 +42,18 @@
 
 
 
-|Caso de Teste    | CT-05-Receitas salvas|
+|Caso de Teste    | CT-05 - Receitas salvas|
 |:---|:---|
-| Resultados obtidos | dentro do meu perfil eu cliquei em minhas receitas e fui direcionada para a tela com todas as minhas receitas já salvas. Dentro do esperado   |
+| Resultados obtidos | dentro do meu perfil eu cliquei em minhas receitas ou em  ver mais e fui direcionada para a tela com todas as minhas receitas já salvas. Dentro do esperado   |
 | Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa |
 
 ![Captura-de-tela-2024-06-13-103113](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/4b9b5f23-abc4-4d46-b8db-bc9607254b4f)
 
+
+
+|Caso de Teste    | CT-06 - Voltar ao inicio|
+|:---|:---|
+| Resultados obtidos | dentro do meu perfil eu cliquei na logo ou na casinha e fui direcionada para a tela de inicio e continuei logada. Dentro do esperado   |
+| Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa |
+
+![Captura-de-tela-2024-06-13-103752](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/0dbc24fc-175f-452a-81f3-d552a0092887)
