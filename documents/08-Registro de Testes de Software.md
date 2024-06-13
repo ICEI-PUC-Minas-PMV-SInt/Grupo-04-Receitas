@@ -10,3 +10,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
 [Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+
+
+|Caso de Teste    | CT-01 -  login |
+|:---|:---|
+| Resultados obtidos | Ao colocar meu usuário e senha, cliquei em entrar e recebi uma notificação de que o login foi realizado com sucesso, então fui direcionada para a tela de inicio. Dentro do esperado  |
+| Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa | 
+
+
+
+![Captura-de-tela-2024-06-13-100629](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/0001f742-cf49-4933-95da-a30df5ced151)
