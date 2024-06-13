@@ -49,15 +49,15 @@
 |:---|:---|
 | Requisitos Associados | RF-05	O sistema deve ter uma função de ver as receitas salvas |
 | Objetivo do Teste | verificar se existe tela de receita salvas|
-| Passos | Com a tela já logada; 1 - clique em cima de sua foto para ir ao seu perfil; 2 - clique em suas receitas.|
+| Passos | Com a tela já logada; 1 - clique em cima de sua foto para ir ao seu perfil; 2 - clique em suas receitas ou em veja mais .|
 | Critérios de êxito | O usuário será redirecionada para a tela de receitas salvas. |
 | Responsável pela elaborar do caso de Teste | Tatiana Haveroth Barbosa |
 | Registro da tela |![Captura-de-tela-2024-06-13-094316](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/50d6acfb-790a-4728-b56e-3ea7e408a8f8)
 
 
-|Caso de Teste    | RF-07	Voltar ao inicio|
+|Caso de Teste    | RF-06	Voltar ao inicio|
 |:---|:---|
-| Requisitos Associados | RF-07	O sistema deve permitir que usuários possam voltar ao inicio de qualquer página que estejam |
+| Requisitos Associados | RF-06	O sistema deve permitir que usuários possam voltar ao inicio de qualquer página que estejam |
 | Objetivo do Teste | verificar se existe local para voltar a tela de inicio|
 | Passos | Com a tela não logada ou já logada; 1 - clicar em cima da logo ou da casinha .|
 | Critérios de êxito | O usuário será redirecionada para a tela de inicio. |
@@ -66,22 +66,4 @@
 
 
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
-
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
-
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
