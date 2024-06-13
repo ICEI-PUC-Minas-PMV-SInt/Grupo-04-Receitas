@@ -41,3 +41,11 @@
 ![Captura-de-tela-2024-06-13-102348](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/bfe0b5e4-8ad1-4f4b-a3b9-f7d58cf0d1cf)
 
 
+
+|Caso de Teste    | CT-05-Receitas salvas|
+|:---|:---|
+| Resultados obtidos | dentro do meu perfil eu cliquei em minhas receitas e fui direcionada para a tela com todas as minhas receitas já salvas. Dentro do esperado   |
+| Responsável pela execução do caso de Teste | Tatiana Haveroth Barbosa |
+
+![Captura-de-tela-2024-06-13-103113](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/assets/165046436/4b9b5f23-abc4-4d46-b8db-bc9607254b4f)
+
