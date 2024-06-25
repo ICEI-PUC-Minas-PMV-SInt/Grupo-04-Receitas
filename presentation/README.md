@@ -1,20 +1,18 @@
 # Apresentação do Projeto
 
 ## Conjunto de Slides
+A apresentação do projeto em power point está no link abaixo:
 
-A apresentação do projeto consiste na geração de um conjunto de slides em um arquivo no formato ppt, pptx ou pdf, contemplando os seguintes itens:
+<iframe src="https://sgapucminasbr-my.sharepoint.com/personal/1540046_sga_pucminas_br/_layouts/15/Doc.aspx?sourcedoc={5784c102-3cde-4798-9940-2972df33fc1a}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">Este é um apresentação do <a target="_blank" href="https://office.com">Microsoft Office</a> incorporado, da plataforma <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-> - Contexto (Problema, Público-alvo)
-> - Requisitos
-> - Solução Implementada (funcionalidades de software)
-> - Conclusão da elaboração do projeto (pontos positivos, desafios, aprendizado).
 
-[Adicione pdf de apresentação.]
 
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+
+
+
+
+>
+>
 
 ## Vídeo de apresentação
 
