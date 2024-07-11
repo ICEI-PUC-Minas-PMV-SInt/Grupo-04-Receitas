@@ -110,6 +110,8 @@ header{
     margin-top: 10px;
 }
 nav{
+    position: stycky;
+    top: 0px;
     grid-area: nav;
     display: flex;
     justify-content: space-around;
