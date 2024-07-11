@@ -23,9 +23,7 @@ a, a:visited, a:hover, a:active {
     font-size: inherit; /* Mantém o tamanho da fonte */
 }
 .container_header{
-    position: sticky;
-    top: 0px;
-    display: grid;
+        display: grid;
     grid-template-columns: 65% 30%;
     justify-content: space-between;
     padding: 10px 5%;
