@@ -1,5 +1,6 @@
 
 # Metodologia
+O desenvolvimento do projeto foi conduzido utilizando diversas ferramentas que suportaram a implementação do código-fonte, o design da interface, além da comunicação e gestão da equipe. A seguir, estão descritas as tecnologias e metodologias adotadas, bem como suas respectivas funcionalidades no contexto do projeto.
 
 ## Gerenciamento de Projeto
 Optamos pelo Scrum para gerenciar o desenvolvimento do site de culinária, pois ele nos permite dividir o trabalho em ciclos curtos (sprints), facilitando a entrega de valor de forma incremental. Com o Scrum, podemos priorizar tarefas, testar e ajustar o produto continuamente, respondendo rapidamente às mudanças e garantindo que o site atenda às expectativas do projeto. Essa abordagem nos permite melhorar continuamente o produto com base no feedback dos usuários.
